@@ -1,0 +1,5 @@
+#frontend
+docker pull ghcr.io/alan99abdullah/karsajobs-ui:latest
+
+#backend
+docker pull ghcr.io/alan99abdullah/karsajobs:latest
